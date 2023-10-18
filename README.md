@@ -6,7 +6,7 @@
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Computer Engineering @ UCSD ⚙️ | Robocup Chair & Software Lead @ IEEE UCSD 🤖</h2></summary>
+    <summary><h2 style="display: inline-block">Computer Science @ UCSD ⚙️ | Robocup Chair & Software Lead @ IEEE UCSD 🤖</h2></summary>
   </ul>
 </div>
 
